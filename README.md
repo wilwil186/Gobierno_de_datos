@@ -121,4 +121,3 @@ Diagrama de linaje (Mermaid) que cubre desde sistemas fuente hasta dashboard, co
 1. **Calidad de datos y entendimiento del negocio**: Reglas de control relevantes, supuestos claros, priorización por impacto.
 2. **Correctitud técnica en SQL**: Joins, agregaciones, manejo de nulos, validaciones accionables.
 3. **Gobierno, normativas y trazabilidad**: Clasificación de información, regulación aplicable, almacenamiento seguro, linaje con controles.
-s
