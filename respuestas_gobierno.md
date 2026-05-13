@@ -147,7 +147,3 @@ flowchart LR
 | 4 | Conciliación | Afecta confianza financiera | Investigar diferencias y corregir en fuente transaccional |
 | 5 | Integridad referencial | Limita segmentación | Corregir asignación de pólizas huérfanas |
 
----
-
-*Documento generado para prueba técnica — HDI Seguros Colombia*
-*Plataforma objetivo: Amazon Redshift | Lenguaje: SQL ANSI + funciones Redshift*
