@@ -116,6 +116,8 @@ flowchart LR
     I -.->|"Audita consumo"| H
 ```
 
+![Diagrama de linaje del dato](lineage_diagram.png)
+
 ### Generación de evidencia de controles
 
 | Paso | Control | Evidencia generada | Dónde se almacena |
